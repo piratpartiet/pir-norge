@@ -3,7 +3,10 @@ README for pp-norge.git
 
 Dette er en samling av offisielle filer for Piratpartiet Norge.
 
-Hjemmeside: <http://piratpartietnorge.org>
+* Hjemmeside: <http://piratpartiet.no>
+* Wiki: <http://wiki.piratpartiet.no>
+* Facebook: <https://www.facebook.com/pirnorge>
+* Twitter: <https://twitter.com/PiratPost> og <https://twitter.com/Piratpartiet_No>
 
 Siste versjon og full historie over forandringene er tilgjengelig fra 
 <https://github.com/piratpartiet/pp-norge>.
