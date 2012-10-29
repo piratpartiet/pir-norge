@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="Norsk-flagg-PP.svg">
+   sodipodi:docname="Norsk-flagg-PP.svg"
+   inkscape:export-filename="/home/sunny/src/git/piratpartiet/pp-norge/logo/bitmap/Norsk-flagg-PP.500x500.png"
+   inkscape:export-xdpi="223.00999"
+   inkscape:export-ydpi="223.00999">
   <defs
      id="defs4">
     <clipPath
@@ -25,6 +28,20 @@
          d="M 0,1773.33 0,0 l 4946.67,0 0,1773.33 -4946.67,0 z"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3015">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="path3017"
+         sodipodi:cx="80.469833"
+         sodipodi:cy="57.186684"
+         sodipodi:rx="35.128963"
+         sodipodi:ry="35.128963"
+         d="m 115.5988,57.186684 a 35.128963,35.128963 0 1 1 -70.25793,0 35.128963,35.128963 0 1 1 70.25793,0 z"
+         transform="matrix(2.2903531,0,0,2.2903531,129.63435,-61.775466)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -33,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9069468"
-     inkscape:cx="301.79132"
-     inkscape:cy="100.89366"
+     inkscape:zoom="2.4481224"
+     inkscape:cx="100.89349"
+     inkscape:cy="100.89365"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -127,7 +144,8 @@
      style="display:inline">
     <g
        id="g3867"
-       transform="matrix(1.2260727,0,0,1.2260727,-284.01816,16.046682)">
+       transform="matrix(1.2260727,0,0,1.2260727,-284.01816,16.046682)"
+       clip-path="url(#clipPath3015)">
       <rect
          y="-10.798271"
          x="233.96222"
@@ -146,30 +164,6 @@
          style="fill:#002868;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 100.68451,3.0402692 c 0,0 91.59957,1.9888096 98.58691,101.2089108 2.622,37.23229 1.57319,-103.83090312 1.57319,-103.83090312 z"
-       id="path3876"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
-    <path
-       sodipodi:nodetypes="cscc"
-       inkscape:connector-curvature="0"
-       id="path3878"
-       d="m 102.46487,3.0402692 c 0,0 -91.599569,1.9888096 -98.5869095,101.2089108 -2.622,37.23229 -1.57319,-103.83090312 -1.57319,-103.83090312 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 101.41607,199.13055 c 0,0 -91.5995659,-1.98881 -98.5869069,-101.208912 -2.62199997,-37.232285 -1.57319,103.830912 -1.57319,103.830912 z"
-       id="path3880"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
-    <path
-       sodipodi:nodetypes="cscc"
-       inkscape:connector-curvature="0"
-       id="path3882"
-       d="m 100.68451,198.60615 c 0,0 91.59957,-1.98881 98.58691,-101.20891 2.622,-37.232285 1.57319,103.83091 1.57319,103.83091 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <g
        transform="translate(-73.208693,-431.46853)"
        id="g3037">
