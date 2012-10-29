@@ -50,11 +50,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4481224"
-     inkscape:cx="100.89349"
+     inkscape:zoom="1.2240612"
+     inkscape:cx="49.017003"
      inkscape:cy="100.89365"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="717"
@@ -65,7 +65,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,25 +91,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Norske flagg"
-     style="display:none">
+     style="display:inline">
     <g
-       style="display:inline"
-       id="g3835"
-       transform="translate(38.572524,65.586239)">
+       id="g3052"
+       transform="translate(-304.72332,-36.479381)">
       <rect
          style="fill:#ef2b2d;fill-opacity:1;stroke:none"
          id="rect3800"
-         width="160"
-         height="160.00101"
-         x="230"
-         y="-8.2127075" />
+         width="434.49606"
+         height="382.21213"
+         x="131.32448"
+         y="-53.732021" />
       <path
-         d="m 289.95331,-8.2137194 40.00025,0 0,160.0010094 -40.00025,0 z m -60.00038,60.0003794 160.04707,0 0,40.000249 -160.04707,0 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0"
+         id="path3045"
+         d="m 328.52583,-54.549986 40.00025,0 0,383.846026 -40.00025,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
          id="path3802"
-         inkscape:connector-curvature="0" />
+         d="m 131.27741,117.3729 434.54315,0 0,40.00025 -434.54315,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
-         d="m 300,-8.2127075 20,0 0,159.9999975 -20,0 z m -70,69.9999995 160,0 0,20 -160,0 z"
+         d="m 130.50753,127.37353 436.12998,0 0,20 -436.12998,0 z m 208.06499,-181.105552 20,0 0,382.211102 -20,0 z"
          style="fill:#002868;fill-opacity:1;stroke:none"
          id="rect3827"
          inkscape:connector-curvature="0" />
@@ -117,7 +121,7 @@
     <g
        style="display:inline"
        id="g3793"
-       transform="matrix(1.1674512,0,0,1.1674512,134.40827,-1.3106411)">
+       transform="matrix(1.1674512,0,0,1.1674512,492.23351,96.723671)">
       <rect
          y="1.7872925"
          x="260"
@@ -136,6 +140,26 @@
          style="fill:#002868;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       y="-79.693901"
+       x="-350.00522"
+       height="186.79219"
+       width="256.83926"
+       id="rect3005"
+       style="fill:#ef2b2d;fill-opacity:1;stroke:none" />
+    <path
+       d="m -350.00521,-9.6468258 256.839266,0 0,46.6980458 -256.839266,0 z m 70.04707,-70.0470712 46.69805,0 0,186.792187 -46.69805,0 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3007"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#002868;fill-opacity:1;stroke:none"
+       d="m -268.28362,-79.700952 0,81.7215844 -81.72159,0 0,23.3490236 81.72159,0 0,81.721584 23.34902,0 0,-81.721584 151.768656,0 0,-23.3490236 -151.768656,0 0,-81.7215844 -23.34902,0 z"
+       id="path3009" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M -105.375 -81.6875 L -105.375 304.71875 L 309.625 304.71875 L 309.625 -81.6875 L -105.375 -81.6875 z M 100.90625 4.5 C 154.14672 4.5 197.28125 47.665775 197.28125 100.90625 C 197.28125 154.14672 154.14672 197.28125 100.90625 197.28125 C 47.665775 197.28125 4.5 154.14672 4.5 100.90625 C 4.5 47.665775 47.665775 4.5 100.90625 4.5 z "
+       id="rect3058" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -144,7 +168,7 @@
      style="display:inline">
     <g
        id="g3867"
-       transform="matrix(1.2260727,0,0,1.2260727,-284.01816,16.046682)"
+       transform="matrix(1.2260727,0,0,1.2260727,-517.66661,130.42005)"
        clip-path="url(#clipPath3015)">
       <rect
          y="-10.798271"
