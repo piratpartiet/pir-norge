@@ -7,6 +7,7 @@ Dette er en samling av offisielle filer for Piratpartiet Norge.
 * Wiki: <http://wiki.piratpartiet.no>
 * Facebook: <https://www.facebook.com/pirnorge>
 * Twitter: <https://twitter.com/PiratPost> og <https://twitter.com/Piratpartiet_No>
+* Instagram: <https://instagram.com/Piratpartiet_no>
 
 Siste versjon og full historie over forandringene er tilgjengelig fra 
 <https://github.com/piratpartiet/pp-norge>.
