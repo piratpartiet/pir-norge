@@ -1,0 +1,9 @@
+digraph {
+modul1 -> database;
+database -> modul1;
+database -> modul2;
+database -> modul3;
+database -> lim1 -> modul4;
+database -> lim2 -> modul5;
+database -> lim2 -> modul6;
+}

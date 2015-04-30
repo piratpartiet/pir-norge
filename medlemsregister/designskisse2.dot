@@ -1,0 +1,15 @@
+digraph {
+rankdir=LR;
+OpenID -> MediaWiki
+OpenID -> verktøy2
+OpenID -> verktøy3
+database -> kontoregistreringsmodul -> database;
+database -> kontoredigeringsmodul -> database;
+database -> kontingentbetalingsmodul -> database;
+database -> arbeidskontoret -> database
+database -> verktøy1
+database -> OpenID
+database -> LDAP -> verktøy4
+database -> eksportscript -> zimbra
+database -> eksportscript2 -> verktøy5
+}
