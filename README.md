@@ -1,5 +1,5 @@
-README for pp-norge.git
-=======================
+README for pir-norge.git
+========================
 
 Dette er en samling av offisielle filer for Piratpartiet Norge.
 
@@ -10,7 +10,7 @@ Dette er en samling av offisielle filer for Piratpartiet Norge.
 * Instagram: <https://instagram.com/Piratpartiet_no>
 
 Siste versjon og full historie over forandringene er tilgjengelig fra 
-<https://github.com/piratpartiet/pp-norge>.
+<https://github.com/piratpartiet/pir-norge>.
 
 ----
 
